@@ -1,0 +1,341 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="catalog_20048885.css"?>
+<?xml-model href="catalog_20048885.xsd" type="application/xml"?>
+
+<store>
+    <storedetails>
+        <logo cs="cardshop"></logo>
+        <navdetail>
+            <address>London, Islington</address>
+            <telephone>2079460110</telephone>
+            <website>cardmart.org</website>
+        </navdetail>
+        <name>The card shop</name>
+        <welcome>
+            Welcome,
+            <br> We sell the best gift cards around the town. Select the card you wanna buy</br>
+            .
+        </welcome>
+
+    </storedetails>
+    <cards>
+        <giftcard card="PUBG">
+            <image imgid="pubg"></image>
+            <type delivery="Email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $10</cost>
+            <validity>Validity: Valid upto 5 months of purchase</validity>
+            <numberofusers>Number of users: 50000</numberofusers>
+            <discountvouchers>Discount: Upto 3%</discountvouchers>
+            <company>Company: Tencent games</company>
+            <region>Region: Global</region>
+            <withdraw>Withdraw: Only in PUBG gaming platform</withdraw>
+            <renewal availablity="false">Renewal: No renewal</renewal>
+            <code>Code: 1001</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="Valorant">
+            <image imgid="valorant"></image>
+            <type delivery="Email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $25</cost>
+            <expirey>Expirey: 1st January 2023</expirey>
+            <numberofusers>Number of users: 100000</numberofusers>
+            <company>Company: Riot</company>
+            <region>Region: Global</region>
+            <refunds>Refunds: If not used</refunds>
+            <withdraw>Withdraw: In valorant gaming platform</withdraw>
+            <renewal availablity="false">Renewal: No renewal</renewal>
+            <code>Code: 1002</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="CSGO">
+            <image imgid="csgo"></image>
+            <type delivery="Email">Type: Digital </type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $100</cost>
+            <validity>Validity: Valid upto 10 months of purchase</validity>
+            <numberofusers>Number of users: 5000</numberofusers>
+            <company>Company: Valve</company>
+            <region>Region:Global</region>
+            <refunds>Refunds: If not used</refunds>
+            <withdraw>Withdraw: On steam platforms</withdraw>
+            <renewal availablity="false">Renewal: No renewal</renewal>
+            <code>1003</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="Apex legends">
+            <image imgid="apex"></image>
+            <type delivery="Email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $20</cost>
+            <validity>Validity: Valid upto 1 year of purchase</validity>
+            <numberofusers>Number of users: 10000</numberofusers>
+            <discountvouchers>Discount: 2% when used in origin platform</discountvouchers>
+            <company>Company: Origin</company>
+            <region>Region: Global</region>
+            <refunds>Refunds: If not used</refunds>
+            <withdraw>Withdraw: On origin platform</withdraw>
+            <renewal availablity="false">Renewal: No renewal</renewal>
+            <code>1004</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="Twitch">
+            <image imgid="twitch"></image>
+            <type delivery="Email">Type: Digital </type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $20</cost>
+            <validity>Validity: Upto 2 years of purchase</validity>
+            <numberofusers>Number of users: 1000000</numberofusers>
+            <discountvouchers>Discount: 10% discount on twitch platform</discountvouchers>
+            <company>Company: Twitch</company>
+            <region>Region: Global</region>
+            <refunds>Refunds: Yes if not used</refunds>
+            <recharge>Recharge: Yes Upto $1000</recharge>
+            <withdraw>Withdraw: On twitch platform and other partners</withdraw>
+            <share>Share: Can be shared with others upto 3 people</share>
+            <dateextension>Date extension: Yes date gets extended after each recharge of $20</dateextension>
+            <renewal availablity="true">Renewal: Yes</renewal>
+            <code>Code: 1005 </code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="PlayStation">
+            <image imgid="playstation"></image>
+            <type delivery="Email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $10</cost>
+            <validity>Validity: Upto 10 months of purchase</validity>
+            <numberofusers>Number of users: 500000</numberofusers>
+            <discountvouchers>Discount: 5% on PlayStation store</discountvouchers>
+            <company>Company: Sony</company>
+            <region>Region: United Kingdom</region>
+            <withdraw>Withdraw: On PlayStation Store</withdraw>
+            <renewal availablity="false">Renewal: No renewal</renewal>
+            <code>Code: 1006</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="Fortnite">
+            <image imgid="fortnite"></image>
+            <type delivery="email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $31.99</cost>
+            <expirey>Expirey: 20th February 2023</expirey>
+            <numberofusers>Number of users: 10000</numberofusers>
+            <company>Company: Epic games</company>
+            <region>Region: Global</region>
+            <refunds>Refunds: Yes if not used</refunds>
+            <withdraw>Withdraw: On Epic games</withdraw>
+            <renewal availablity="false">Renewal: No</renewal>
+            <code>Code: 1007</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Minecraft">
+            <image imgid="minecraft"></image>
+            <type delivery="email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $9.99</cost>
+            <expirey>Expirey: 5th December 2022</expirey>
+            <numberofusers>Number of users: 4000</numberofusers>
+            <company>Company: Microsoft</company>
+            <region>Region: Asia</region>
+            <withdraw>Withdraw: Yes in minecraft game and walmart</withdraw>
+            <dateextension>Date extension: Upto 4 months</dateextension>
+            <renewal availablity="false">Renewal: No</renewal>
+            <code>Code: 1008</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Netflix">
+            <image imgid="netflix"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $30</cost>
+            <validity>Validity: Valid upto 1 year of purchase</validity>
+            <numberofusers>Number of users: 500000</numberofusers>
+            <company>Company: Netflix</company>
+            <region>Region: United States</region>
+            <refunds>Refunds: Yes if not used</refunds>
+            <recharge>Recharge: Upto $30</recharge>
+            <withdraw>Withdraw: Through various Netflix platforms</withdraw>
+            <share>Share: Can be shared with 5 different users</share>
+            <dateextension>Date extension: Yes upto 10 days</dateextension>
+            <renewal availablity="true">Renewal: Yes whenever recharged</renewal>
+            <code>Code: 1009</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Spotify">
+            <image imgid="spotify"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $99</cost>
+            <expirey>Expirey: On 4th January 2025</expirey>
+            <numberofusers>Number of users: 450000</numberofusers>
+            <company>Company:Spotify</company>
+            <region>Region: Global</region>
+            <recharge>Recharge: Yes Upto $100</recharge>
+            <withdraw>Withdraw: Amazon, Netflix, Hulu, Spotify</withdraw>
+            <share>Share: Yes upto 4 people can use it</share>
+            <dateextension>Date extension: Upto 15 days of expirey</dateextension>
+            <renewal availablity="true">Renewal: Yes every recharge</renewal>
+            <code>Code: 1010</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Itunes">
+            <image imgid="itunes"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $10</cost>
+            <expirey>Expirey: On 10th March 2024</expirey>
+            <numberofusers>Number of Users: 60000</numberofusers>
+            <discountvouchers>Discount: 10% on every apple store purchase</discountvouchers>
+            <company>Company: Apple</company>
+            <region>Region: United States</region>
+            <refunds>Refunds: Yes If unused</refunds>
+            <withdraw>Withdraw:On apple platforms</withdraw>
+            <share>Share: Cannot be shared</share>
+            <dateextension>Date extension: Upto 5 days from expirey</dateextension>
+            <renewal availablity="true">Renewal: Yes can be renewed upon purchase</renewal>
+            <code>Code: 1011</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="steam">
+            <image imgid="steam"></image>
+            <type delivery="email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="Pound">Cost: £50</cost>
+            <validity>Validity: Valid upto 7 months of purchase</validity>
+            <numberofusers>Number of users: 5000</numberofusers>
+            <discountvouchers>Discount: 5% on Steam</discountvouchers>
+            <company>Company: Valve</company>
+            <region>Region: Global</region>
+            <withdraw>Withdraw: On Netflix, Spotify, bestbuy</withdraw>
+            <share>Share: Can be shared with on other user</share>
+            <dateextension>Date extension: No</dateextension>
+            <renewal availablity="false">Renewal: No</renewal>
+            <code>Code: 1012</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Hulu">
+            <image imgid="hulu"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $23.97</cost>
+            <validity>Validity: Valid upto 3 months of purchase</validity>
+            <numberofusers>Number of users: 1000000</numberofusers>
+            <company>Company: Hulu</company>
+            <region>Region: Global</region>
+            <refunds>Refunds: Yes if not used</refunds>
+            <recharge>Recharge: Yes upto the limit </recharge>
+            <withdraw>Withdraw: On any social media platform</withdraw>
+            <share>Share: Can be shared with 4 different users</share>
+            <dateextension>Date extension: No</dateextension>
+            <renewal availablity="true">Renewal: Yes</renewal>
+            <code>Code: 1013</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Cheesecake factory">
+            <image imgid="cheesecake"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $25</cost>
+            <expirey>Expirey: Expires on 3rd March 2024</expirey>
+            <numberofusers>Number of users: 5000</numberofusers>
+            <discountvouchers>Discount: No</discountvouchers>
+            <company>Company: The cheese cake factory</company>
+            <region>Region: United Kingdom</region>
+            <withdraw>Withdraw: Only in The cheesecake factory shops</withdraw>
+            <renewal availablity="false">Renewal: No</renewal>
+            <code>Code: 1014</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Subway">
+            <image imgid="subway"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $30</cost>
+            <validity>Validity: Valid upto 4 months of purchase</validity>
+            <numberofusers>Number of users: 1000</numberofusers>
+            <discountvouchers>Discount: 2% on every SUBWAY store</discountvouchers>
+            <company>Company: SUBWAY</company>
+            <region>Region: United States</region>
+            <withdraw>Withdraw: Through SUBWAY, and its partner companies</withdraw>
+            <renewal availablity="false">Renewal: No</renewal>
+            <code>Code: 1015</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+
+        <giftcard card="Apple">
+            <image imgid="apple"></image>
+            <type delivery="email">Type: Digital</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $100</cost>
+            <expirey>Expirey: 10th May 2023</expirey>
+            <numberofusers>Number of users: 1000000</numberofusers>
+            <discountvouchers>Discount: 5% on every purchase made in Apple store</discountvouchers>
+            <company>Company: Apple</company>
+            <region>Region: Global</region>
+            <recharge>Recharge: Yes</recharge>
+            <withdraw>Withdraw: On Apple store, amazon, bestbuy, paypal</withdraw>
+            <renewal availablity="true">Renewal: Yes</renewal>
+            <code>Code: 1016</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="Starbucks">
+            <image imgid="starbucks"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $50</cost>
+            <expirey>Expirey: 10th May 2024</expirey>
+            <numberofusers>Number of users: 10000</numberofusers>
+            <company>Company: Starbucks</company>
+            <region>Region: Global</region>
+            <refunds>Refunds: Yes if not used</refunds>
+            <withdraw>Withdraw: Amazon, paypal, google pay, Starbucks</withdraw>
+            <renewal availablity="false">Renewal: No</renewal>
+            <timesitcanbeused>Times it can be used: Can only be used 5 times</timesitcanbeused>
+            <code>1017</code>
+            <button>Add to cart</button>
+        </giftcard>
+
+        <giftcard card="Dominos">
+            <image imgid="dominos"></image>
+            <type delivery="Physical delivery">Type: Physical</type>
+            <quantity>Quantity: 50000</quantity>
+            <cost currency="USD">Cost: $45</cost>
+            <expirey>Expirey: 15th May 2024</expirey>
+            <numberofusers>Number of users: 50000</numberofusers>
+            <company>Company:Dominos</company>
+            <region>Region: Global</region>
+            <refunds>Refunds: Yes if not used</refunds>
+            <withdraw>Withdraw: Amazon, paypal, google pay, Starbucks</withdraw>
+            <share>Share: Yes</share>
+            <renewal availablity="false">Renewal: No</renewal>
+            <timesitcanbeused>Times it can be used: Can only be used 3 times</timesitcanbeused>
+            <code>Code: 1018</code>
+            <button>Add to cart</button>
+        </giftcard>
+    </cards>
+</store>
